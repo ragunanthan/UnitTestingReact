@@ -8,13 +8,13 @@
 
 ### Important : 
 
-![alt text](https://github.com/ragunanthan/UnitTestingReact/blob/main/Screenshot%202023-06-17%20at%201.20.07%20PM.png)
+[![alt text](https://github.com/ragunanthan/UnitTestingReact/blob/main/Screenshot%202023-06-17%20at%201.20.07%20PM.png)](https://github.com/ragunanthan/UnitTestingReact/blob/cb7564420e5095015949c791c38e472b4f296142/Screenshot%202023-06-17%20at%201.20.07%20PM.png)
 
 Reference : 
-formik testing lib  : https://testing-library.com/docs/example-react-formik/
-User actions :  https://testing-library.com/docs/dom-testing-library/api-events/
-Cheatsheet :  https://testing-library.com/docs/react-testing-library/cheatsheet/
-User event  : https://testing-library.com/docs/ecosystem-user-event/#selectoptionselement-values-options
+ - formik testing lib  : https://testing-library.com/docs/example-react-formik/
+ - User actions :  https://testing-library.com/docs/dom-testing-library/api-events/
+ - Cheatsheet :  https://testing-library.com/docs/react-testing-library/cheatsheet/
+ - User event  : https://testing-library.com/docs/ecosystem-user-event/#selectoptionselement-values-options
 
 
 
