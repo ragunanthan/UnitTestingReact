@@ -8,7 +8,7 @@
 
 ### Important : 
 
-![[Screenshot 2023-06-17 at 1.20.07 PM.png]]
+![alt text](https://github.com/ragunanthan/UnitTestingReact/blob/main/Screenshot%202023-06-17%20at%201.20.07%20PM.png)
 
 Reference : 
 formik testing lib  : https://testing-library.com/docs/example-react-formik/
